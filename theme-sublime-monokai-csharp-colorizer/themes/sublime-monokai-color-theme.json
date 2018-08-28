@@ -160,7 +160,7 @@
 			"name": "Numeric suffix",
 			"scope": "numeric-suffix",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#66D9EF"
 			}
 		},
@@ -199,7 +199,7 @@
 			"name": "Keyword type",
 			"scope": "keyword.type",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#66D9EF"
 			}
 		},
@@ -215,7 +215,7 @@
 			"name": "Keyword other class",
 			"scope": "keyword.other.class",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#66D9EF"
 			}
 		},
@@ -239,7 +239,7 @@
 			"name": "Meta function call and type-parameter",
 			"scope": "storage.type, entity.name.type.type-parameter",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#66D9EF"
 			}
 		},
@@ -247,7 +247,7 @@
 			"name": "La f del 10.0f",
 			"scope": "storage.type.numeric",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#66D9EF"
 			}
 		},
@@ -262,7 +262,7 @@
 			"name": "Parameters and this",
 			"scope": "entity.name.variable.parameter, keyword.other.this, keyword.other.base",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#FD971F"
 			}
 		},
@@ -277,7 +277,7 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic underline",
+				"fontStyle": "",
 				"foreground": "#A6E22E"
 			}
 		},
@@ -301,7 +301,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#FD971F"
 			}
 		},
@@ -341,7 +341,7 @@
 			"name": "Library class/type",
 			"scope": "support.type, support.class",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#66D9EF"
 			}
 		},
